@@ -1,5 +1,5 @@
 def upper_symb():
-    """let there be upper letters"""
+    """let there be upper letters again"""
     symb = input('Введите набор символов: ').upper()
     return symb
 print(upper_symb())
