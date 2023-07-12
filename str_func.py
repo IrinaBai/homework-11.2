@@ -10,4 +10,4 @@ print(upper_symb())
 def Capitalize(S):
    return S.title()
 S = input()
-print (Capitalize(S))
+print(Capitalize(S))
