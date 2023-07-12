@@ -1,13 +1,10 @@
-"""let there be upper letters"""
 def upper_symb():
+    """let there be upper letters"""
     symb = input('Введите набор символов: ').upper()
     return symb
 print(upper_symb())
 
-
-
-"""I want more capitalized letters"""
 def Capitalize(S):
-   return S.title()
-S = input()
-print(Capitalize(S))
+    """I want more capitalized letters"""
+    return S.title()
+print(input().title())
