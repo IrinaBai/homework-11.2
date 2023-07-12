@@ -5,6 +5,6 @@ def upper_symb():
 print(upper_symb())
 
 def Capitalize(S):
-    """I want more capitalized letters"""
+    """I want more capitalized letters!!"""
     return S.title()
 print(input().title())
